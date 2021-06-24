@@ -6,5 +6,9 @@ Because the distribution of peptides is not uniform, it is necessary to calculat
 因为肽段分布不是均匀的，所以要计算隔离窗口，使每个窗口涵盖的肽段数量一致  
 ![Peptide m/z distributions](https://www.researchgate.net/profile/A-Millar/publication/5911517/figure/fig1/AS:386495589437440@1469159137215/Predicted-m-z-distributions-of-total-and-gene-specific-doubly-charged-tryptic-peptides.png)  
 ![DIA isolation windows](https://www.embopress.org/cms/asset/b83bd3f8-6a02-44c9-b04a-f7cc8c21bf61/msb178126-fig-0003-m.jpg)  
+## Scripting Node in Proteome Discoverer 2.4 脚本嵌入PD2.4 Scripting Node 节点里
+You can use Scripting Node in Proteome Discoverer 2.4 run this scrpit. Refer to the picture below  
+可以通过PD2.4 Scripting Node 节点运行该脚本，设置方法如下图  
+![Scripting Node Setting](https://raw.githubusercontent.com/Jack-Sun-007/Calc_DIA_Windows/main/DIA_isolation_list_in_PD_node/Scripting%20Node%20Setting.PNG)  
 # Notice
 I AM A NEWBEE
